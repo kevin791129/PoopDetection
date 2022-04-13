@@ -1,0 +1,8 @@
+item {
+  name: "rope"
+  id: 1
+}
+item {
+  name: "poop"
+  id: 2
+}
