@@ -1,0 +1,6 @@
+flask >= 2.1.1
+matplotlib >= 3.5.0
+nltk == 3.7
+opencv-python >= 4.5
+tensorflow == 2.8.0
+tensorflow-object-detection-api == 0.1.1
